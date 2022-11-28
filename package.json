@@ -1,0 +1,24 @@
+{
+  "name": "devtools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntzyMo/devtools.git"
+  },
+  "keywords": [],
+  "author": "AntzyMo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntzyMo/devtools/issues"
+  },
+  "homepage": "https://github.com/AntzyMo/devtools#readme",
+  "devDependencies": {
+    "@antzy/eslint-config": "^1.4.9",
+    "eslint": "^8.28.0"
+  }
+}

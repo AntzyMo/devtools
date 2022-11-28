@@ -1,0 +1,7 @@
+{
+  "name": "AntzyMo devtools",
+  "description": "AntzyMo store",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "devtools_page":"devtools.html"
+}
